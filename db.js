@@ -92,7 +92,7 @@
     },
     {
       "name" : "Blueberries",
-      "image" : "https://media.healthyfood.com/wp-content/uploads/2017/03/Why_we_like_blueberries.jpg",
+      "image" : "https://s30386.pcdn.co/wp-content/uploads/2020/02/p19g4i34b41b0b18873g61h7c16ah6.jpg",
       "origin" : "North America",
       "family" : "Ericaceae"
     }
