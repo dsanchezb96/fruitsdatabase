@@ -20,7 +20,7 @@
     },
     {
       "name" : "Pineapple",
-      "image" : "https://www.agroboca.com/uploads/producers/922/p/-downloadfile-1.jpg",
+      "image" : "https://www.dole.com/-/media/project/dole/produce-images/fruit/pineapple_cut_web.png?h=630&w=1200&rev=77f42516c642431eac65057385324af7&hash=6A1583F02AEFBF979B55977AB190F439",
       "origin" : "South America",
       "family" : "Bromeliaceae"
     },
