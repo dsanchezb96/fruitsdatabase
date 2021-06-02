@@ -20,7 +20,7 @@
     },
     {
       "name" : "Pineapple",
-      "image" : "https://lehzon.com/wp-content/uploads/2020/05/pineapple-500x500-1.jpg",
+      "image" : "https://www.agroboca.com/uploads/producers/922/p/-downloadfile-1.jpg",
       "origin" : "South America",
       "family" : "Bromeliaceae"
     },
@@ -92,7 +92,7 @@
     },
     {
       "name" : "Blueberries",
-      "image" : "https://www.haifa-group.com/sites/default/files/Blueberry%20isolated%2026223694_xxl.jpg",
+      "image" : "https://media.healthyfood.com/wp-content/uploads/2017/03/Why_we_like_blueberries.jpg",
       "origin" : "North America",
       "family" : "Ericaceae"
     }
