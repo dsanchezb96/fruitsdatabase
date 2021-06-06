@@ -74,7 +74,7 @@
     },
     {
       "name" : "Sapote",
-      "image" : "http://www.fruit-full.com/images/sapote.png",
+      "image" : "https://www.jctropicals.us/wp-content/uploads/2021/03/JC_Mamey.png",
       "origin" : "Mexico",
       "family" : "Sapotaceae"
     },
