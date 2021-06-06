@@ -74,7 +74,7 @@
     },
     {
       "name" : "Tangerine",
-      "image" : "https://mon.es/wp-content/uploads/2018/11/Mandarina.png",
+      "image" : "https://www.sofruco.com/wp-content/uploads/2017/05/mandarina-500x400.png",
       "origin" : "China",
       "family" : "Rutaceae"
     },
