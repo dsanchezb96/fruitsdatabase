@@ -2,97 +2,97 @@
   "fruits" : [
     {
       "name" : "Watermelon",
-      "image" : "https://sc04.alicdn.com/kf/U8eb4d685aae34a1680510fd0c837527ep.jpg",
+      "image" : "https://www.levarht.com/wp-content/uploads/2018/05/38-watermelon-800x532.png",
       "origin": "Egypt",
       "family" : "Cucurbitacaeae"
     },
     {
       "name" : "Mango",
-      "image" : "https://media.istockphoto.com/photos/whole-and-slice-ripe-mango-fruit-with-green-leaves-isolated-on-white-picture-id1008183290?k=6&m=1008183290&s=612x612&w=0&h=YG0jNEbUMqmcKc6lLOnChjRlqlqSnlfGuHSaeG4x7NE=",
+      "image" : "https://www.freshvana.com/media/t/imgs/almacen_articulo/d57de474-567e-44d7-ac4b-1200de5f5b10/mango.png.1920x1920_q85.png",
       "origin": "South Asia",
       "family" : "Anacardiacaeae"
     },
     {
       "name" : "Grapes",
-      "image" : "https://www.collinsdictionary.com/images/full/grape_229112122.jpg",
+      "image" : "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/25d45014-8cc3-4c98-b02c-5a0cf3a55ddd/ddfrpyt-7b2f2fe3-9f1c-4048-98a2-f26a877dd5de.png/v1/fill/w_900,h_667,strp/white_grapes_on_a_transparent_background__by_prussiaart_ddfrpyt-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjY3IiwicGF0aCI6IlwvZlwvMjVkNDUwMTQtOGNjMy00Yzk4LWIwMmMtNWEwY2YzYTU1ZGRkXC9kZGZycHl0LTdiMmYyZmUzLTlmMWMtNDA0OC05OGEyLWYyNmE4NzdkZDVkZS5wbmciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.z6E_mhgn3Ilm-gpUl8ObR8EpqamZR7-yAifyiPTcKqE",
       "origin" : "Georgia",
       "family" : "Vitaceae"
     },
     {
       "name" : "Pineapple",
-      "image" : "https://www.dole.com/-/media/project/dole/produce-images/fruit/pineapple_cut_web.png?h=630&w=1200&rev=77f42516c642431eac65057385324af7&hash=6A1583F02AEFBF979B55977AB190F439",
+      "image" : "https://www.dole.com/-/media/project/dole/produce-images/fruit/pineapple_cut_web.png?h=540&w=720&rev=77f42516c642431eac65057385324af7&hash=8A218F607D9E27339B852FB5785302A0",
       "origin" : "South America",
       "family" : "Bromeliaceae"
     },
     {
       "name" : "Apple",
-      "image" : "https://static.libertyprim.com/files/familles/pomme-large.jpg?1569271834",
+      "image" : "https://www.dole.com/-/media/project/dole/produce-images/fruit/apples_cut_web.png?h=540&w=720&rev=d90d9052a81f4790a2cf484fba2505fd&hash=0180255164D0EEE11A816E99EA84CE1F",
       "origin" : "Central Asia",
       "family" : "Rosaceae"
     },
     {
       "name" : "Banana",
-      "image" : "https://static.libertyprim.com/files/familles/banane-large.jpg?1569271725",
+      "image" : "https://www.acai.eu/acai/CustomUpload/374O357O340O370O356O369O350O320O322O320O328O/Bananenpueree-FineFruitsClub-500x500px.gif",
       "origin" : "Papua New Guinea",
       "family" : "Musaceae"
     },
     {
       "name" : "Guarana",
-      "image" : "https://www.exotic-seeds.store/8554-large_default/semillas-de-guarana.jpg",
+      "image" : "https://mk0alovitoxq19sdr6k5.kinstacdn.com/wp-content/uploads/2020/06/quanara1.png",
       "origin" : "Amazonia",
       "family" : "Sapindaceae"
     },
     {
       "name" : "Strawberry",
-      "image" : "https://static.libertyprim.com/files/familles/fraise-large.jpg?1569271765",
+      "image" : "https://www.seriousfacts.com/wp-content/uploads/2019/03/Strawberry-is-a-member-of-rose-family-and-it-is-the-only-fruit-which-has-seeds-outside..png",
       "origin" : "Alps",
       "family" : "Rosaceae"
     },
     {
       "name" : "Peach",
-      "image" : "https://static.libertyprim.com/files/familles/peche-large.jpg?1574630286",
+      "image" : "https://cdn.pixabay.com/photo/2017/07/13/10/22/fruits-2500011_960_720.png",
       "origin" : "Northwest China",
       "family" : "Rosaceae"
     },
     {
       "name" : "Pomegranate",
-      "image" : "https://avocitrus.eu/wp-content/uploads/2017/08/granada-558x600.jpg",
+      "image" : "https://www.levarht.com/wp-content/uploads/2018/05/50-Pomegranate-800x559.png",
       "origin" : "Spain",
       "family" : "Punicaceae"
     },
     {
       "name" : "Orange",
-      "image" : "https://5.imimg.com/data5/KM/QP/MY-22954806/orange-500x500.jpg",
+      "image" : "https://cdn.pixabay.com/photo/2020/04/07/06/05/navel-orange-5012172_960_720.png",
       "origin" : "Southern China",
       "family" : "Rutaceae"
     },
     {
       "name" : "Kiwi",
-      "image" : "https://images-na.ssl-images-amazon.com/images/I/41nrO6HfZsL._AC_.jpg",
+      "image" : "https://www.jing.fm/clipimg/full/256-2561144_fruits-luso-exotics-kiwifruit.png",
       "origin" : "China",
       "family" : "Actinidiaceae"
     },
     {
       "name" : "Sapote",
-      "image" : "https://images.heb.com/is/image/HEBGrocery/000375298?fit=constrain,1&wid=800&hei=800&fmt=jpg&qlt=85,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+      "image" : "http://www.fruit-full.com/images/sapote.png",
       "origin" : "Mexico",
       "family" : "Sapotaceae"
     },
     {
       "name" : "Papaya",
-      "image" : "https://images-na.ssl-images-amazon.com/images/I/41%2BICmJbmVL._AC_SX425_.jpg",
+      "image" : "https://www.tuku.lk/wp-content/uploads/2020/07/papaaya.png",
       "origin" : "Central America",
       "family" : "Caricaceae"
     },
     {
       "name" : "Avocado",
-      "image" : "https://sc04.alicdn.com/kf/H6259ee3057ae4dfeab9b84d4cc8b969f0.jpg",
+      "image" : "http://readytoeat.eu/images/buy-fresh-ripe-avocados.png",
       "origin" : "Mexico",
       "family" : "Lauraceae"
     },
     {
       "name" : "Blueberries",
-      "image" : "https://s30386.pcdn.co/wp-content/uploads/2020/02/p19g4i34b41b0b18873g61h7c16ah6.jpg",
+      "image" : "https://www.dole.com/-/media/project/dole/produce-images/fruit/blueberries_web.png?h=540&w=720&rev=50ec31b012eb40bbba305324411a0756&hash=19AEB725333BE3F576067909B41CD408",
       "origin" : "North America",
       "family" : "Ericaceae"
     }
