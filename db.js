@@ -73,10 +73,10 @@
       "family" : "Actinidiaceae"
     },
     {
-      "name" : "Sapote",
-      "image" : "https://www.jctropicals.us/wp-content/uploads/2021/03/JC_Mamey.png",
-      "origin" : "Mexico",
-      "family" : "Sapotaceae"
+      "name" : "Tangerine",
+      "image" : "https://mon.es/wp-content/uploads/2018/11/Mandarina.png",
+      "origin" : "China",
+      "family" : "Rutaceae"
     },
     {
       "name" : "Papaya",
@@ -86,7 +86,7 @@
     },
     {
       "name" : "Avocado",
-      "image" : "http://readytoeat.eu/images/buy-fresh-ripe-avocados.png",
+      "image" : "https://zavocado.com/wp-content/uploads/2020/07/aguacate-organico-de-exportacion-zavocado-org-aguac.png",
       "origin" : "Mexico",
       "family" : "Lauraceae"
     },
